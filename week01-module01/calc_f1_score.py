@@ -1,4 +1,5 @@
-# Calculate f1 score with parameters
+# Calculate
+# and print out f1 score with parameters
 def calc_f1_score(tp, fp, fn):
   if not is_valid_input(tp, fp, fn):
     return
