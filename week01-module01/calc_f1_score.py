@@ -1,3 +1,5 @@
+import math
+
 # Calculate
 # and print out f1 score with parameters
 def calc_f1_score(tp, fp, fn):
